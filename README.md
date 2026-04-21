@@ -92,49 +92,6 @@ Cada lenguaje está asociado a su sintaxis de comentario correspondiente.
  */
 ```
 
-## Capturas Y GIFs
-
-Para mejorar la presentación visual del proyecto en GitHub, este repositorio puede incluir capturas y animaciones del flujo de la CLI.
-
-Ruta recomendada para los recursos:
-
-```txt
-docs/media/
-```
-
-Ejemplo de imágenes en el README:
-
-```md
-![CLI welcome screen](docs/media/cli-banner.png)
-![CLI preview flow](docs/media/cli-preview.png)
-```
-
-Ejemplo de GIF en el README:
-
-```md
-![ASCII Header CLI demo](docs/media/cli-demo.gif)
-```
-
-Ejemplo de bloque listo para usar:
-
-```md
-## Demo Visual
-
-![ASCII Header CLI demo](docs/media/cli-demo.gif)
-
-## Capturas
-
-![Welcome screen](docs/media/cli-banner.png)
-![Preview and summary](docs/media/cli-preview.png)
-```
-
-Sugerencias de contenido visual:
-
-- pantalla inicial con el banner ASCII
-- selección de fuente y lenguaje
-- vista previa de la cabecera antes de guardar
-- GIF corto mostrando el flujo completo
-
 ## Stack Tecnológico
 
 - `Node.js`
